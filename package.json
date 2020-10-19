@@ -1,6 +1,6 @@
 {
   "name": "create-etsc-jest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create a package following templates using TypeScript, esbuild, jest, and more",
   "keywords": [
     "etsc",
