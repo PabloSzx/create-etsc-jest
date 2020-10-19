@@ -1,7 +1,11 @@
 {
   "name": "create-etsc-jest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create a package following templates using TypeScript, esbuild, jest, and more",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloSzx/create-etsc-jest.git"
+  },
   "keywords": [
     "etsc",
     "tsc",
