@@ -10,8 +10,10 @@ const { resolve, join } = require("path");
 const { program } = require("commander");
 
 program
-  .version("0.0.1")
-  .description("Create base package using TypeScript + esbuild + Jest")
+  .version("1.0.3")
+  .description(
+    "Create base package using TypeScript + esbuild + Jest, if <path> is not specified, the target is the current directory."
+  )
   .option("-t, --template <name>", 'Template to use, available: "base"', "base")
   .option("--overwrite", "If it should overwrite files", false)
   .arguments("<path>")

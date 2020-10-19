@@ -20,7 +20,7 @@ npx create-etsc-jest
 
 ### API
 
-![--help screenshot](https://i.imgur.com/ONktmy4.png)
+![--help screenshot](https://i.imgur.com/Vn5LVtq.png)
 
 ## Templates
 
