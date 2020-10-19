@@ -5,13 +5,17 @@
 ### Using PNPM
 
 ```sh
-pnpm init create-etsc-jest
+pnpm init etsc-jest
+# or
+pnpx create-etsc-jest
 ```
 
 ### Using npm
 
 ```sh
-npm init create-etsc-jest
+npm init etsc-jest
+# or
+npx create-etsc-jest
 ```
 
 ### API
